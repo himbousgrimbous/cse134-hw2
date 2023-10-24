@@ -14,7 +14,7 @@ footer{
 }
 
 .flex-parent {
-    display: flow;
+    display: flex;
 }
 
 .flex-child {
